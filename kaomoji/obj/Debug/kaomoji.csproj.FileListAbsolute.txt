@@ -1,0 +1,16 @@
+C:\Users\BULAT3\Documents\SharpDevelop Projects\kaomoji\kaomoji\bin\Debug\kaomoji.exe.config
+C:\Users\BULAT3\Documents\SharpDevelop Projects\kaomoji\kaomoji\bin\Debug\kaomoji.exe
+C:\Users\BULAT3\Documents\SharpDevelop Projects\kaomoji\kaomoji\bin\Debug\kaomoji.pdb
+C:\Users\BULAT3\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.csprojResolveAssemblyReference.cache
+C:\Users\BULAT3\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.MainForm.resources
+C:\Users\BULAT3\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.csproj.GenerateResource.Cache
+C:\Users\BULAT3\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.exe
+C:\Users\BULAT3\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.pdb
+C:\Users\User\Documents\SharpDevelop Projects\kaomoji\kaomoji\bin\Debug\kaomoji.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\kaomoji\kaomoji\bin\Debug\kaomoji.exe
+C:\Users\User\Documents\SharpDevelop Projects\kaomoji\kaomoji\bin\Debug\kaomoji.pdb
+C:\Users\User\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.exe
+C:\Users\User\Documents\SharpDevelop Projects\kaomoji\kaomoji\obj\Debug\kaomoji.pdb
